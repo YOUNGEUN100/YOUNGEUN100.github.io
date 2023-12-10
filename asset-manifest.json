@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wedding-card/static/css/main.b7fb6b1e.css",
-    "main.js": "/wedding-card/static/js/main.cf7f2cdb.js",
-    "static/js/787.d00bc756.chunk.js": "/wedding-card/static/js/787.d00bc756.chunk.js",
-    "static/media/부크크명조_얇은글씨.woff": "/wedding-card/static/media/부크크명조_얇은글씨.4dd24ae27c5fa573aaf0.woff",
-    "static/media/부크크명조_굵은글씨.woff": "/wedding-card/static/media/부크크명조_굵은글씨.e8da3dec364cd90e0d16.woff",
-    "static/media/flower.png": "/wedding-card/static/media/flower.74a6b3515d8897d6ed57.png",
-    "static/media/photo.jpg": "/wedding-card/static/media/photo.5e0d3262deed96673761.jpg",
-    "static/media/ua.gif": "/wedding-card/static/media/ua.dd505853e3b768d02528.gif",
-    "static/media/naver.webp": "/wedding-card/static/media/naver.7717483eebafa7435918.webp",
-    "index.html": "/wedding-card/index.html",
-    "main.b7fb6b1e.css.map": "/wedding-card/static/css/main.b7fb6b1e.css.map",
-    "main.cf7f2cdb.js.map": "/wedding-card/static/js/main.cf7f2cdb.js.map",
-    "787.d00bc756.chunk.js.map": "/wedding-card/static/js/787.d00bc756.chunk.js.map"
+    "main.css": "/static/css/main.9139922a.css",
+    "main.js": "/static/js/main.381d9e5b.js",
+    "static/js/787.d00bc756.chunk.js": "/static/js/787.d00bc756.chunk.js",
+    "static/media/부크크명조_얇은글씨.woff": "/static/media/부크크명조_얇은글씨.4dd24ae27c5fa573aaf0.woff",
+    "static/media/부크크명조_굵은글씨.woff": "/static/media/부크크명조_굵은글씨.e8da3dec364cd90e0d16.woff",
+    "static/media/flower.png": "/static/media/flower.74a6b3515d8897d6ed57.png",
+    "static/media/photo.jpg": "/static/media/photo.5e0d3262deed96673761.jpg",
+    "static/media/ua.gif": "/static/media/ua.dd505853e3b768d02528.gif",
+    "static/media/naver.webp": "/static/media/naver.7717483eebafa7435918.webp",
+    "index.html": "/index.html",
+    "main.9139922a.css.map": "/static/css/main.9139922a.css.map",
+    "main.381d9e5b.js.map": "/static/js/main.381d9e5b.js.map",
+    "787.d00bc756.chunk.js.map": "/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7fb6b1e.css",
-    "static/js/main.cf7f2cdb.js"
+    "static/css/main.9139922a.css",
+    "static/js/main.381d9e5b.js"
   ]
 }
