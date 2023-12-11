@@ -1,21 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.32796aec.css",
-    "main.js": "/static/js/main.03fb4cff.js",
+    "main.js": "/static/js/main.302fc805.js",
     "static/js/787.d00bc756.chunk.js": "/static/js/787.d00bc756.chunk.js",
     "static/media/부크크명조_얇은글씨.woff": "/static/media/부크크명조_얇은글씨.4dd24ae27c5fa573aaf0.woff",
     "static/media/부크크명조_굵은글씨.woff": "/static/media/부크크명조_굵은글씨.e8da3dec364cd90e0d16.woff",
     "static/media/flower.png": "/static/media/flower.a5552bcf0b139bec2fbd.png",
+    "static/media/2022.jpg": "/static/media/2022.c0798e3547eacba3b2a5.jpg",
+    "static/media/2020.jpg": "/static/media/2020.d9cd89fea62c063559a1.jpg",
+    "static/media/2023_1.jpg": "/static/media/2023_1.e1410f101133c5b22d61.jpg",
     "static/media/photo.jpg": "/static/media/photo.5e0d3262deed96673761.jpg",
+    "static/media/2017.jpg": "/static/media/2017.d9289a0a354bffdced42.jpg",
+    "static/media/2023_2.jpg": "/static/media/2023_2.133bc0ac12269fd89a16.jpg",
+    "static/media/2019.jpg": "/static/media/2019.29184b4834287c4b001b.jpg",
+    "static/media/2018.jpg": "/static/media/2018.285a0b735cd763ebb02a.jpg",
+    "static/media/2023.jpg": "/static/media/2023.c2105fe680aee6a38429.jpg",
+    "static/media/2021.jpg": "/static/media/2021.a7a9ba417d1fe9d429c9.jpg",
     "static/media/gallery1.jpg": "/static/media/gallery1.e0d02ba43059db2b8247.jpg",
     "static/media/naver.webp": "/static/media/naver.7717483eebafa7435918.webp",
     "index.html": "/index.html",
     "main.32796aec.css.map": "/static/css/main.32796aec.css.map",
-    "main.03fb4cff.js.map": "/static/js/main.03fb4cff.js.map",
+    "main.302fc805.js.map": "/static/js/main.302fc805.js.map",
     "787.d00bc756.chunk.js.map": "/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32796aec.css",
-    "static/js/main.03fb4cff.js"
+    "static/js/main.302fc805.js"
   ]
 }
